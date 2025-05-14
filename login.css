@@ -1,0 +1,17 @@
+
+  body {
+    background-color: #7FC9F3; /* Fondo de la página (azul muy claro) */
+  }
+  .login-card {
+    background-color: #704B8C; /* Fondo del cuadro de login */
+    color: white; /* Texto blanco */
+  }
+  .form-control {
+    background-color: #e6f0ff;
+  }
+  .btn-primary {
+    background-color: #EAC9F0;
+    border: none;
+  }
+
+
